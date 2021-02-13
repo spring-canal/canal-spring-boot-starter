@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.alibaba.otter.canal.spring.boot.autoconfigure.CanalAutoConfiguration
